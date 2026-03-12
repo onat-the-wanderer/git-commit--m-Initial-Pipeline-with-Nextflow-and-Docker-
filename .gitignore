@@ -1,0 +1,6 @@
+work/
+.nextflow*
+results/
+*.png
+*.html
+*.zip
